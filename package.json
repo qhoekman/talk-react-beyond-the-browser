@@ -1,9 +1,10 @@
 {
   "name": "dij-react-beyond-the-browser",
   "version": "1.0.0",
-  "description": "",
+  "description": "A demos project for showcasing the capabilities of React beyond the browser",
   "private": true,
   "scripts": {
+    "pdf-invoice": "lerna run --scope @rbb/pdf-invoice --stream",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
