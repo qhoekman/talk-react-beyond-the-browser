@@ -1,5 +1,5 @@
 {
-  "name": "@rbb/graphics",
+  "name": "@rbb/2d-graphics",
   "private": true,
   "version": "0.0.0",
   "type": "module",

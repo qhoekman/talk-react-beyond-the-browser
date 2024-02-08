@@ -12,7 +12,7 @@ importers:
         specifier: ^8.1.2
         version: 8.1.2
 
-  demos/graphics:
+  demos/2d-graphics:
     dependencies:
       '@shopify/react-native-skia':
         specifier: ^0.1.238

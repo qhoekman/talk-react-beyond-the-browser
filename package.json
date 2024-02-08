@@ -4,7 +4,7 @@
   "description": "A demos project for showcasing the capabilities of React beyond the browser",
   "private": true,
   "scripts": {
-    "graphics": "lerna run --scope @rbb/graphics --stream",
+    "2d-graphics": "lerna run --scope @rbb/2d-graphics --stream",
     "videos": "lerna run --scope @rbb/videos --stream",
     "pdf-invoice": "lerna run --scope @rbb/pdf-invoice --stream",
     "test": "echo \"Error: no test specified\" && exit 1"
