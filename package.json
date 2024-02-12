@@ -6,6 +6,7 @@
   "scripts": {
     "2d-graphics": "lerna run --scope @rbb/2d-graphics --stream",
     "3d-graphics": "lerna run --scope @rbb/3d-graphics --stream",
+    "emails": "lerna run --scope @rbb/emails --stream",
     "videos": "lerna run --scope @rbb/videos --stream",
     "pdf-invoice": "lerna run --scope @rbb/pdf-invoice --stream",
     "test": "echo \"Error: no test specified\" && exit 1"
