@@ -1,4 +1,4 @@
-import { OrbitControls, Stats } from '@react-three/drei';
+import { OrbitControls } from '@react-three/drei';
 import { Canvas } from '@react-three/fiber';
 import { useRef } from 'react';
 import { ApartmentScene } from './scenes/apartment';
@@ -15,7 +15,6 @@ function App() {
       <color attach="background" args={['#ececec']} />
       <ApartmentScene ref={ref} />
       <OrbitControls ref={ref} autoRotate />
-      <Stats />
     </Canvas>
   );
 }
