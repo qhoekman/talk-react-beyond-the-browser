@@ -1,3 +1,3 @@
-# Graphics with Skia
+# Emails
 
-This is a simple example of how to use the Skia library to draw graphics in a canvas.
+This is a example project for `react-email` library.
