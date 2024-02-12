@@ -1,5 +1,6 @@
 {
   "name": "@rbb/emails",
+  "description": "E-mail examples with react-email",
   "private": true,
   "version": "0.0.0",
   "type": "module",
