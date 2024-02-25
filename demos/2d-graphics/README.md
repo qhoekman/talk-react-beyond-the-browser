@@ -1,3 +1,3 @@
-# Graphics with Skia
+# Graphics with Satori
 
-This is a simple example of how to use the Skia library to draw graphics in a canvas.
+This is a simple example how to create images with Satori and React.
