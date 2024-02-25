@@ -1,4 +1,4 @@
-export const BUILD_DIR = 'dist';
+export const BUILD_DIR = 'public/images';
 export const DIMENSIONS = {
   INSTAGRAM_SQUARE: [1080, 1080],
   INSTAGRAM_LANDSCAPE: [1080, 608],
