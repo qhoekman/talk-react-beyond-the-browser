@@ -7,7 +7,7 @@
     "dev:preview": "vite dev",
     "dev:images": "tsx watch ./src/cli.tsx",
     "dev": "concurrently --kill-others \"npm run dev:preview\" \"npm run dev:images\"",
-    "build": "vite build; tsx ./src/cli.tsx",
+    "build": "tsx ./src/cli.tsx; vite build;",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0"
   },
   "dependencies": {
